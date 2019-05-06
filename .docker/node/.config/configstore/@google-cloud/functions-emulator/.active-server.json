@@ -1,0 +1,18 @@
+{
+	"host": "0.0.0.0",
+	"logFile": "/usr/local/lib/node_modules/@google-cloud/functions-emulator/logs/cloud-functions-emulator.log",
+	"projectId": "booth-d4e77",
+	"region": "us-central1",
+	"restPort": 8011,
+	"started": 1556708423355,
+	"storage": "configstore",
+	"supervisorPort": 8010,
+	"tail": true,
+	"useMocks": false,
+	"verbose": false,
+	"version": "1.0.0-beta.6",
+	"pid": 48,
+	"workers": {
+		"134": "STARTED"
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"projects/booth-d4e77/locations/us-central1/functions/helloWorld": {
+		"name": "projects/booth-d4e77/locations/us-central1/functions/helloWorld",
+		"timeout": {
+			"seconds": 60
+		},
+		"sourceUploadUrl": "http://0.0.0.0:8011/upload?archive=%2Ftmp%2Ftmp-49bJPSMEzmp47i.zip&localdir=%2Fapp%2Ffunctions",
+		"sourceArchiveUrl": "file:///tmp/tmp-49bJPSMEzmp47i.zip",
+		"httpsTrigger": {
+			"url": "http://0.0.0.0:8010/booth-d4e77/us-central1/helloWorld"
+		},
+		"status": "READY",
+		"latestOperation": "operations/611e73d6-6578-4099-bad8-d4be40c13d6a",
+		"availableMemoryMb": 2095
+	}
+}

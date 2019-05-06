@@ -1,0 +1,13 @@
+{
+  "name": "espress-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Cristian Angulo Nova",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "scripts": {
+    "start": "nodemon -L --inspect=node ."
+  }
+}
